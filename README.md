@@ -1,4 +1,4 @@
-# Google DA Capstone
+# Bicycle Data Analysis
 Google Data Analytics Professional Certificate Capstone Project
 
 Case Study: How Does a Bike-Share Navigate Speedy Success?
